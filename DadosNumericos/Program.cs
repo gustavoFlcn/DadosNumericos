@@ -7,4 +7,8 @@ class Calc{
     public sum(int num1, int num2){
         Console.WriteLine($"Your result: {num1} + {num2} = " + (num1 + num2));
     }
+
+    public subtraction(){
+        Console.WriteLine("2-1= "+2-1);
+    }
 }
