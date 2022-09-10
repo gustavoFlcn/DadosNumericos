@@ -1,0 +1,15 @@
+/Users/gustavofelicianofigueiredo/Documents/Projetos/Microsoft/C#/DadosNumericos/DadosNumericos/bin/Debug/net6.0/DadosNumericos
+/Users/gustavofelicianofigueiredo/Documents/Projetos/Microsoft/C#/DadosNumericos/DadosNumericos/bin/Debug/net6.0/DadosNumericos.deps.json
+/Users/gustavofelicianofigueiredo/Documents/Projetos/Microsoft/C#/DadosNumericos/DadosNumericos/bin/Debug/net6.0/DadosNumericos.runtimeconfig.json
+/Users/gustavofelicianofigueiredo/Documents/Projetos/Microsoft/C#/DadosNumericos/DadosNumericos/bin/Debug/net6.0/DadosNumericos.dll
+/Users/gustavofelicianofigueiredo/Documents/Projetos/Microsoft/C#/DadosNumericos/DadosNumericos/bin/Debug/net6.0/DadosNumericos.pdb
+/Users/gustavofelicianofigueiredo/Documents/Projetos/Microsoft/C#/DadosNumericos/DadosNumericos/obj/Debug/net6.0/DadosNumericos.csproj.AssemblyReference.cache
+/Users/gustavofelicianofigueiredo/Documents/Projetos/Microsoft/C#/DadosNumericos/DadosNumericos/obj/Debug/net6.0/DadosNumericos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavofelicianofigueiredo/Documents/Projetos/Microsoft/C#/DadosNumericos/DadosNumericos/obj/Debug/net6.0/DadosNumericos.AssemblyInfoInputs.cache
+/Users/gustavofelicianofigueiredo/Documents/Projetos/Microsoft/C#/DadosNumericos/DadosNumericos/obj/Debug/net6.0/DadosNumericos.AssemblyInfo.cs
+/Users/gustavofelicianofigueiredo/Documents/Projetos/Microsoft/C#/DadosNumericos/DadosNumericos/obj/Debug/net6.0/DadosNumericos.csproj.CoreCompileInputs.cache
+/Users/gustavofelicianofigueiredo/Documents/Projetos/Microsoft/C#/DadosNumericos/DadosNumericos/obj/Debug/net6.0/DadosNumericos.dll
+/Users/gustavofelicianofigueiredo/Documents/Projetos/Microsoft/C#/DadosNumericos/DadosNumericos/obj/Debug/net6.0/refint/DadosNumericos.dll
+/Users/gustavofelicianofigueiredo/Documents/Projetos/Microsoft/C#/DadosNumericos/DadosNumericos/obj/Debug/net6.0/DadosNumericos.pdb
+/Users/gustavofelicianofigueiredo/Documents/Projetos/Microsoft/C#/DadosNumericos/DadosNumericos/obj/Debug/net6.0/DadosNumericos.genruntimeconfig.cache
+/Users/gustavofelicianofigueiredo/Documents/Projetos/Microsoft/C#/DadosNumericos/DadosNumericos/obj/Debug/net6.0/ref/DadosNumericos.dll
